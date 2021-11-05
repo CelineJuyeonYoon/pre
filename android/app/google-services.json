@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "1094439461677",
+    "project_id": "codecamp-03-firebase-test",
+    "storage_bucket": "codecamp-03-firebase-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094439461677:android:cdf6c7973e4efedcbda9a4",
+        "android_client_info": {
+          "package_name": "com.celinetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094439461677-uka76gcapsngpdncfknlip5o2cfufa7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.celinetest",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1094439461677-s7egn0hhcbit96ek2i6dkguod0qdas0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnoCLZfHp5DkOfknkSo7I4XJHn4zqg9rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094439461677-s7egn0hhcbit96ek2i6dkguod0qdas0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094439461677:android:cdb2c8a8a4fc009ebda9a4",
+        "android_client_info": {
+          "package_name": "com.finaltest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094439461677-s7egn0hhcbit96ek2i6dkguod0qdas0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnoCLZfHp5DkOfknkSo7I4XJHn4zqg9rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094439461677-s7egn0hhcbit96ek2i6dkguod0qdas0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094439461677:android:bc6454926ff34065bda9a4",
+        "android_client_info": {
+          "package_name": "com.freeboard_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094439461677-s7egn0hhcbit96ek2i6dkguod0qdas0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnoCLZfHp5DkOfknkSo7I4XJHn4zqg9rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094439461677-s7egn0hhcbit96ek2i6dkguod0qdas0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
